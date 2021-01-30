@@ -6,7 +6,7 @@ Public Class Form1
         Dim visorPDF As New Form2
         ''Apertura de formulario en modo NO modal
         visorPDF.Show()
-        'Prueba commit en GitHub
+        'Prueba commit en GitHub en repositorio ProyectosVS
     End Sub
 
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
